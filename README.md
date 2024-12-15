@@ -1,2 +1,2 @@
-# ITI-Embedded-Basic
-## Fire Alarm System bet. 2 Micro
+# ITI-Embedded-Basic Project
+## Fire Alarm System bet. 2 Micro 
